@@ -135,10 +135,10 @@ fun ButtonFunction(){
 
     val artList = listOf(
         ArtSpaceList(R.drawable.anime_8937913_640, "Homme avec cheveux blanc", "AI libre de droit 2025"),
-        ArtSpaceList(R.drawable.ai_generated_8610368_640, "Manga Femme", "AI libre de droit"),
+        ArtSpaceList(R.drawable.ai_generated_8610368_640, "Princesse", "AI libre de droit"),
         ArtSpaceList(R.drawable.ai_generated_9097044_640, "Combattante", "AI FreePik libre de droit 2025"),
-        ArtSpaceList(R.drawable.ai_generated_8402016_640, "Cyber Punk avec Tatouage", "AI libre de droit 2025"),
-        ArtSpaceList(R.drawable.anime_8655210_640, "Agent Entretien", "AI :-) libre de droit 2025")
+        ArtSpaceList(R.drawable.ai_generated_8402016_640, "Cyber Punk ", "AI libre de droit 2025"),
+        ArtSpaceList(R.drawable.anime_8655210_640, "Agent d'Entretien", "AI :-) libre de droit 2025")
     )
 
     var state by remember { mutableIntStateOf(0) }
